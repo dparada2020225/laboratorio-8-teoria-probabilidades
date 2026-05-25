@@ -1,9 +1,9 @@
-# Lab08 — Simulación Panini FIFA 2026: Presupuesto e Intercambio
-### MM3014 Teoría de Probabilidades · Sección 40 · 2026-1
+# Lab8 — Simulación Panini FIFA 2026: Presupuesto e Intercambio
+### MM3014 Teoría de Probabilidades · Sección 40 · 2026
 
 **Integrantes:**
 - Denil José Parada Cabrera — 24761
-- Saul Esteban Catillo Arenas — 24915
+- Saúl Esteban Catillo Arenas — 24915
 
 ---
 
