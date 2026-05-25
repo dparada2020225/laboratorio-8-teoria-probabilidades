@@ -11,17 +11,6 @@
 
 Continuación del Lab07. Se extiende la simulación Monte Carlo del álbum Panini FIFA 2026 incorporando dos nuevas variables: un **presupuesto económico fijo** (Etapa 3) y un **mecanismo de intercambio de estampas repetidas** (Etapa 4).
 
----
-
-## Archivos
-
-| Archivo | Descripción |
-|---|---|
-| `Lab08.ipynb` | Notebook principal con las Etapas 3 y 4 |
-| `Lab08_final.docx` | Informe con resultados, gráficas y análisis |
-| `etapa3_barras.png` | Gráfica éxito vs fracaso con presupuesto Q 1,000 |
-| `etapa4A_histogramas.png` | Histogramas superpuestos por valor de K |
-| `etapa4B_lineas.png` | P(completar) vs M sobres para distintos K |
 
 ---
 
